@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     {{msg}}
+    111111111111111111
   </div>
 </template>
 
@@ -10,7 +11,7 @@ export default {
   name: 'login',
   data () {
     return {
-      msg: 'login"
+      msg: 'login'
     }
   }
 }
